@@ -1,0 +1,27 @@
+body{
+  background-color: #a7a4c5;
+}
+
+h1{
+  color: #eebcd0;
+  text-align: center;
+}
+.img{
+  width: 650px;
+  height: 500px;
+  background-image: url(http://1h23on8hs5s44c2iqm9tze2x.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Breathtaking-photo-of-the-Great-Smoky-Mountains-at-sunrise-768x512.jpg);
+}
+h2{
+  font-style: normal;
+  color: #eebcd0;
+  text-align: center;
+}
+h3{
+  font-style: normal;
+  color: #eebcd0;
+  text-align: center;
+}
+p{
+  font-family: fantasy;
+  color: #eebcd0;
+}
