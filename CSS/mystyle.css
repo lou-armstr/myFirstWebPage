@@ -1,0 +1,42 @@
+.important {
+    color: navy;
+}
+
+.best {
+    color: blue;
+}
+
+.flushy {
+    color: red;
+    font-style: italic;
+}
+
+.intro {
+    width: 50%;
+}
+
+.column {
+    float: left;
+    width: 350px;
+
+}
+
+.sidebar {
+    float: right;
+    margin: 12px;
+    border: 2px solid green;
+    padding: 4px;
+    background-color: orange;
+
+}
+
+.intro img {
+    width: 300px;
+    height: 250px;
+}
+.intro h2 {
+    color: bisque;
+    text-align: left;
+    text-align-last: right;
+    width: 50%;
+}

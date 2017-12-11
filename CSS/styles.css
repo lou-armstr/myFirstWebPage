@@ -1,27 +1,36 @@
-body{
-  background-color: #a7a4c5;
+h2{
+  color: blue;
+  font-style: italic;
+}
+h1{
+  color: navy;
+  text-align: center;
+}
+.intro{
+color: red;
+width: 70%;
 }
 
-h1{
-  color: #eebcd0;
-  text-align: center;
-}
 .img{
-  width: 650px;
-  height: 500px;
-  background-image: url(http://1h23on8hs5s44c2iqm9tze2x.wpengine.netdna-cdn.com/wp-content/uploads/2017/01/Breathtaking-photo-of-the-Great-Smoky-Mountains-at-sunrise-768x512.jpg);
+  background-image: url(http://farm7.staticflickr.com/6021/6196026178_bb9dfd3888_b.jpg);
+  width: 400px;
+  height: 400px;
+  border: 2px solid #362121;
 }
-h2{
-  font-style: normal;
-  color: #eebcd0;
-  text-align: center;
+
+.important{
+  color: blue;
+  font-size: 24;
 }
-h3{
-  font-style: normal;
-  color: #eebcd0;
-  text-align: center;
+.highlight{
+  color: yellow;
 }
 p{
-  font-family: fantasy;
-  color: #eebcd0;
+  font-style:  italic;
+  color: green;
+}
+.important p:hover{
+  font-style: italic;
+  color: blue;
+
 }

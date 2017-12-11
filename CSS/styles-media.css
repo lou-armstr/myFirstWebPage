@@ -1,0 +1,26 @@
+@media screen and (max-width: 768px) {
+    body{
+        color: red;
+        background-color: yellow;
+    }
+}
+@media screen and (min-width: 768px) {
+  .column {
+    width: 300px;
+    float: left;
+    padding: 20px;
+      color: aqua;
+      background-color: black;
+  }
+    body{
+        background-color: brown;
+    }
+}
+
+@media screen and (min-height: 480px) {
+  body {
+    background-color: black; 
+    color: white; 
+  }   
+}
+
